@@ -1,0 +1,16 @@
+###nombres de archivos y carpetas que usualmente se ignoran###
+
+Archivos del sistema operativo
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+Editores y entornos de desarrollo
+
+.vscode/
+.idea/
+.vs/
+*.swp
+*.swo
+*.bak
